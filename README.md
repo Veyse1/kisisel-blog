@@ -3,7 +3,7 @@
 
 ##  Siteyi Ziyaret Et
 
-**[⬇ SITEYI AÇMAK İÇİN TIKLA](https://veyse1.github.io/deneme1/)**
+https://veyse1.github.io/kisisel-blog/
 
 ##  Sayfalar
 - **Anasayfa** (`index.html`) - Blog ana sayfası
@@ -13,13 +13,7 @@
 - **Yazı 2** (`yazilar/yazi-2.html`)
 - **Yazı 3** (`yazilar/yazi-3.html`)
 
-##  Proje Bilgileri
-- **Teknoloji:** HTML, CSS, JavaScript
-- **Amaç:** Web Programlama Ödevi
-- **GitHub Pages:** Aktif
 
 ##  Geliştirici
-Veyse1
+Veysel Uncu
 
----
-*Bu repository GitHub Pages ile yayınlanmıştır. Değişiklikleri kaydettiğinizde site otomatik olarak güncellenecektir.*
