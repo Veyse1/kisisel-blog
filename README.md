@@ -1,6 +1,5 @@
 # Kişisel Blog - Web Programlama Ödevi
 
-Bu proje sadece HTML kullanılarak hazırlanmış kişisel blog ödevidir.
 
 ##  Siteyi Ziyaret Et
 
